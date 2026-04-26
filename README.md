@@ -1,73 +1,81 @@
-# 👋 Hi, I'm Akindu
+# Akindu Gunatissa
 
-💻 **Aspiring Software Engineer | Java OOP Developer**
-📍 Sri Lanka 🇱🇰
-
----
-
-## 🚀 About Me
-
-* 🎓 IT Undergraduate passionate about **software development**
-* ☕ Strong focus on **Java, OOP, and system design**
-* 🏨 Built a **Hotel Management System** (GUI + multithreading)
-* 🌍 Working on **SmartTrip** – budget travel planning solution
-* 📈 Always learning and improving coding skills
+**Aspiring Software Engineer | Frontend Developer**
+Sri Lanka 🇱🇰
 
 ---
 
-## 🛠️ Tech Stack
+## Profile
 
-### 💻 Languages
+Detail-oriented IT undergraduate with a strong foundation in **Object-Oriented Programming (Java)** and **application development**. Experienced in building structured, scalable systems with features such as GUI interfaces, multithreading, and logging.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### ⚙️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+Focused on developing **practical, real-world solutions** and continuously improving software design and problem-solving skills.
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-![Akindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-akiyaa\&show_icons=true\&theme=tokyonight)
+**Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-akiyaa\&layout=compact\&theme=tokyonight)
+* Java
+* Python
+* JavaScript
+* ReactNative
+* React
+* Flutter
+* SQL
+
+**Core Concepts**
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* Multithreading & Concurrency
+* File Handling & Logging
+* Software Development Life Cycle (SDLC)
+* Debugging & Code Optimization
+
+**Tools & Technologies**
+
+* Git & GitHub
+* VS Code / IntelliJ IDEA
+* MySQL
+
+---
+**Development Practices**
+
+* Clean Code Principles
+* Modular Design
+* Version Control Workflow (Git)
+* Basic Testing & Debugging
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=A-akiyaa\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-akiyaa\&show_icons=true\&theme=default\&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-akiyaa\&layout=compact\&theme=default\&hide_border=true)
 
-## 📌 Featured Projects
+![GitHub Streak](https://streak-stats.demolab.com?user=A-akiyaa\&theme=default\&hide_border=true)
 
-* 🏨 **Hotel Management System**
-  → Java OOP, GUI, Multithreading, Logging
-
-* 🌍 **SmartTrip**
-  → Budget-friendly travel planning system
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-akiyaa\&theme=github-compact\&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
+## Current Focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/A-akiyaa)
-
----
-
-## ⚡ Fun Fact
-
-💡 “I turn ideas into real-world applications using clean and efficient code.”
+* Strengthening **Data Structures & Algorithms**
+* Improving **system design skills**
+* Building more **real-world software projects**
 
 ---
 
-## 🎯 Profile Views
+## Contact
 
-![Visitor Count](https://komarev.com/ghpvc/?username=A-akiyaa\&color=blue\&style=flat-square)
+* GitHub: https://github.com/A-akiyaa
+* Gmail: akinduguantissa@gmail.com
+* Linkedin: https://www.linkedin.com/in/akindu-gunatissa-412349267/
+  
 
 ---
+
